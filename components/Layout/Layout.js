@@ -15,7 +15,7 @@ export const Layout = ({ children, className = "" }) => {
                             transition={{ delay: 0.2, duration: 0.5 }}
                         >
                             <h2 className="font-medium text-4xl md:text-6xl lg:text-7xl leading-10 lg:leading-[70px] tracking-tight lg:tracking-tighter">
-                                Let's make{" "}
+                                Let&apos;s make{" "}
                                 <span className=" text-neutral-400 inline font-bold underline-offset-4 underline">
                                     great work
                                 </span>{" "}
