@@ -1,6 +1,6 @@
 ## Lane - A NextJS+Tailwind Portfolio template
 
-Lane - A personal portfolio landing template for developers and designers. Made by Avenue Labs
+Lane - A personal portfolio landing template for developers and designers. Made by [Avenue Labs](https://avenuelabs.co/).
 
 #### See Live Demo: <a href="https://lane.avenuelabs.co/" target="_blank">[Demo Link]</a>
 
