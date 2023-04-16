@@ -33,19 +33,19 @@ export const Layout = ({ children, className = "" }) => {
                                 </Link>
                                 <div className="footer-socials font-medium grid gap-6 md:gap-10 grid-cols-3 max-w-md text-xl md:text-3xl lg:text-2xl leading-10 tracking-tighter">
                                     <Link
-                                        href="#"
+                                        href="https://www.linkedin.com/in/christian-luntok/"
                                         className="grid-cols-1 hover:underline"
                                     >
                                         Linkedin
                                     </Link>
                                     <Link
-                                        href="#"
+                                        href="https://github.com/christian-luntok"
                                         className="grid-cols-1 hover:underline"
                                     >
                                         GitHub
                                     </Link>
                                     <Link
-                                        href="#"
+                                        href="https://twitter.com/"
                                         className="grid-cols-1 hover:underline"
                                     >
                                         Twitter
