@@ -21,7 +21,7 @@ const nextConfig = {
             "Lane - A personal portfolio landing template for developers and designers. Made by Avenue Labs.",
         siteKeywords:
             "Personal portfolio, landing page, page template, developer portfoliom designer portfolio",
-        siteUrl: "http://lane.avenuelabs.co",
+        siteUrl: "https://lane.avenuelabs.co",
         siteImagePreviewUrl: "images/lane.png",
         twitterHandle: "@your_handle"
     },
