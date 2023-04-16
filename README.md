@@ -28,7 +28,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ---
 
-![Pathway Preview](https://github.com/christian-luntok/pathway/blob/main/public/pathway-0-1.png?raw=true)
+![Lane Preview](https://github.com/christian-luntok/lane/blob/main/public/images/lane.png?raw=true)
 
 ---
 
