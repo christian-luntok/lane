@@ -7,7 +7,7 @@ const SEO = ({ title, description, keywords }) => {
         ? description
         : process.env.siteDescription;
     const metaKeywords = keywords ? keywords : process.env.siteKeywords;
-    const siteURL = process.env.siteURL;
+    const siteURL = process.env.siteUrl;
     const twitterHandle = process.env.twitterHandle;
     const imagePreview = `${siteURL}/${process.env.siteImagePreviewUrl}`;
 

@@ -6,7 +6,6 @@ export const Layout = ({ children, className = "" }) => {
     return (
         <main className={`main ${className && className}`}>
             {children}
-
             {/* Footer */}
             <SectionContainer className="mt-32">
                 <footer className="py-40 bg-neutral-100">

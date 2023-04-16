@@ -16,13 +16,13 @@ const nextConfig = {
         formats: ["image/avif", "image/webp"]
     },
     env: {
-        siteTitle: "Avenue Labs - After-hours digital playground",
+        siteTitle: "Lane - Avenue Labs",
         siteDescription:
-            "Avenue Labs serves as my digital playground outside of regular work hours, where I publish content, develop apps, and explore new technologies. It's a personal space on the internet curated by Christian Luntok",
+            "Lane - A personal portfolio landing template for developers and designers. Made by Avenue Labs.",
         siteKeywords:
-            "Digital Playground, Christian Luntok, cjluntok, Develop Apps, Explore technologies",
-        siteUrl: "https://avenuelabs.co/",
-        siteImagePreviewUrl: "/images/avenue-labs.png",
+            "Personal portfolio, landing page, page template, developer portfoliom designer portfolio",
+        siteUrl: "http://lane.avenuelabs.co",
+        siteImagePreviewUrl: "images/lane.png",
         twitterHandle: "@your_handle"
     },
     headers() {
