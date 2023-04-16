@@ -65,8 +65,8 @@ env: {
   siteTitle: 'Your Company',
   siteDescription: 'Your company description.',
   siteKeywords: 'your company keywords',
-  siteUrl: 'https://pathway-cl.vercel.app/',
-  siteImagePreviewUrl: '/images/preview.jpeg',
+  siteUrl: 'https://lane.avenuelabs.co',
+  siteImagePreviewUrl: 'images/preview.jpeg',
   twitterHandle: '@your_handle'
 }
 ```
