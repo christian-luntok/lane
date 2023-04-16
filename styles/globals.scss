@@ -1,0 +1,29 @@
+/*
+
+=========================================================
+* Avenue CSS Kit v0.1
+=========================================================
+
+* Demo Page: 'http://xxx.app/'
+* Copyright 2022 Christian Luntok 
+* Coded by Christian Luntok
+
+=========================================================
+
+* The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+*/
+
+// Core CSS Reset/MISCS
+@import 'core/misc';
+
+// Core Declarations
+@import 'core/variables';
+
+// Core Layouts and Style Definitions
+@import 'core/general';
+@import 'core/typography';
+@import 'core/utilities';
+
+
+// Core Plugins
+// @import "plugins/plugin-tailwind";
