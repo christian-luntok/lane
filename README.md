@@ -2,7 +2,7 @@
 
 Lane - A personal portfolio landing template for developers and designers. Made by [Avenue Labs](https://avenuelabs.co/).
 
-#### See Live Demo: <a href="https://lane.avenuelabs.co/" target="_blank">[Demo Link]</a>
+#### See Live Demo: <a href="https://www.lane.avenuelabs.co/" target="_blank">[Demo Link]</a>
 
 ---
 
