@@ -6,7 +6,7 @@
     "private": true,
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/christian-luntok/xxx.git"
+        "url": "git+https://github.com/christian-luntok/lane.git"
     },
     "keywords": [
         "next",
