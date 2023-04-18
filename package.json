@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "description": "Lane - A personal portfolio landing template for developers and designers. Made by Avenue Labs",
     "main": "index.js",
-    "private": true,
+    "private": false,
     "repository": {
         "type": "git",
         "url": "git+https://github.com/christian-luntok/lane.git"
